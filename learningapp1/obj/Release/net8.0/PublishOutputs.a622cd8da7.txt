@@ -1,0 +1,7 @@
+/Users/francisco.lezama/Documents/C#-workspace/simple-aspdotnet-app/learningapp1/bin/Publish/learningapp1
+/Users/francisco.lezama/Documents/C#-workspace/simple-aspdotnet-app/learningapp1/bin/Publish/appsettings.Development.json
+/Users/francisco.lezama/Documents/C#-workspace/simple-aspdotnet-app/learningapp1/bin/Publish/appsettings.json
+/Users/francisco.lezama/Documents/C#-workspace/simple-aspdotnet-app/learningapp1/bin/Publish/learningapp1.dll
+/Users/francisco.lezama/Documents/C#-workspace/simple-aspdotnet-app/learningapp1/bin/Publish/learningapp1.deps.json
+/Users/francisco.lezama/Documents/C#-workspace/simple-aspdotnet-app/learningapp1/bin/Publish/learningapp1.runtimeconfig.json
+/Users/francisco.lezama/Documents/C#-workspace/simple-aspdotnet-app/learningapp1/bin/Publish/learningapp1.pdb
